@@ -1,12 +1,12 @@
 ﻿# TugasWeb-P11-EcommerceAuth
 
-Tugas Rutin 11 â€” Pemrograman Web (3KOM40115) Â· UNIMED Â· Semester Ganjil 2026/2027
+Tugas Rutin 11 Pemrograman Web
 
-**Nama:** (isi) Â· **NIM:** (isi)
+**Nama:** Diva Nadia Gea· **NIM:** 4253250044
 
 ## Cara install
 
-Prasyarat: PHP â‰¥ 8.2, Composer, Node.js, MySQL aktif.
+Prasyarat: PHP 8.2, Composer, Node.js, MySQL aktif.
 
 ```bash
 git clone https://github.com/USERNAME/TugasWeb-P11-EcommerceAuth.git
@@ -99,10 +99,6 @@ Query 5
 Admin bisa membuka `/admin/dashboard`:
 
 ![Admin](screenshots/admin.png)
-
-User biasa ditolak (403) di `/admin/dashboard`:
-
-![User](screenshots/user.png)
 
 ### Bonus: Eager Loading Demo
 
